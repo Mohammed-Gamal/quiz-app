@@ -1,0 +1,77 @@
+[
+  {
+    "category": "HTML"
+  },
+	{
+		"title": "What is the usage of <br> tag element?",
+		"answer_1": "It is used to create a new line in the HTML page.",
+		"answer_2": "It is used to create a new paragraph in the HTML page.",
+		"answer_3": "It is used to add a line break in the HTML page.",
+		"answer_4": "It is used to create a new heading in the HTML page.",
+		"right_answer":  "It is used to add a line break in the HTML page."
+	},
+	{
+    "title": "Does <img> element has attribute href?",
+    "answer_1": "Yes",
+    "answer_2": "No it is for anchor tag <a>",
+    "answer_3": "All elements hae this attribute",
+    "answer_4": "Answer 1 and 3 are correct",
+    "right_answer": "No it is for anchor tag <a>"
+  },
+  {
+    "title": "How can we make the text of an element bold?",
+    "answer_1": "Putting it inside <b> tag",
+    "answer_2": "Putting it inside <strong> tag",
+    "answer_3": "Customizing it with font-weight property using CSS",
+    "answer_4": "All answers are correct",
+    "right_answer": "All answers are correct"
+  },
+  {
+    "title": "Which is the right hierarchy for creating part of a page?",
+    "answer_1": "<h2>, <p>, <h1>, <p>, <h3>, <p>, <img>",
+    "answer_2": "<h1>, <p>, <h3>, <p>, <h2>, <p>, <img>",
+    "answer_3": "<h2>, <p>, <h3>, <p>, <h1>m <p>, <img>",
+    "answer_4": "All solutions are incorrect",
+    "right_answer": "All solutions are incorrect"
+  },
+  {
+    "title": "How can we include external page inside our HTML page?",
+    "answer_1": "By using include in HTML",
+    "answer_2": "By using load in HTML",
+    "answer_3": "By using <iframe> tag",
+    "answer_4": "All solutions are incorrect",
+    "right_answer": "By using <iframe> tag"
+  },
+  {
+    "title": "Which tag does not exist in HTML?",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All tags exist in HTML",
+    "right_answer": "All tags exist in HTML"
+  },
+  {
+    "title": "How do we specify document type of an HTML5 page?",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What is the element that does not exist in HTML5 semantics?",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML, which is the right way to add class attribute?",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All of the mentioned",
+    "right_answer": "All of the mentioned"
+  }
+]
